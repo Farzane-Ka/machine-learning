@@ -5,7 +5,7 @@ Use OCTAVE_CLI command line to run the script files ex1.m and ex1 multi.m.
 
 1) ex1.m
 ex1.m uses linear regression to predict profits for a food truck. The problem is to predict the profit for openning a new resturant in a new city by using linear regression.
-DataSet contain the population of different cities and their corresponding profit.
+DataSet contains the population of different cities and their corresponding profits.
 
 2) ex1-multi.m
 Predicting the price of houses using linear regression.
