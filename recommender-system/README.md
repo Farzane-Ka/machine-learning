@@ -1,3 +1,7 @@
+Use Octave a free application to run the project.
+Install octave from:   https://wiki.octave.org/GNU_Octave_Wiki. \
+Use OCTAVE_CLI command line to run the script files ex8-cofi.m
+
 Training the collaborative filtering algorithm for movie ratings. The movies dataset has a rating for 943 users and 1682 movies.
 The goal is to train the collaborative filtering algorithm to predict movie ratings.
 Execute the script ex8 cofi.m, which loads the dataset and calls the corresponding functions.
