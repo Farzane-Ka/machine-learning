@@ -9,4 +9,4 @@ DataSet contains the population of different cities and their corresponding prof
 
 2) ex1-multi.m
 Predicting the price of houses using linear regression.
-The dataset2 contains features such as house size and number of bedrooms. Normalization is required to normalize these features, cause the number of bedrooms is a number between 0-10, while the size is from a bigger range.
+The dataset2 contains features such as house size and number of bedrooms. Normalization is required to normalize these features, cause the number of bedrooms is a number between 0-10, while the house size is in a bigger range.
